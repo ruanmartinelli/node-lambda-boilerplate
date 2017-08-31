@@ -1,5 +1,5 @@
 {
-  "name": "lambda-zip-s3",
+  "name": "node-lambda-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/ruanmartinelli/lambda-zip-s3.git",
