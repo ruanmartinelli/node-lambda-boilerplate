@@ -1,0 +1,11 @@
+{
+  "name": "lambda-zip-s3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ruanmartinelli/lambda-zip-s3.git",
+  "author": "Ruan Martinelli <martinelliruan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.22.0"
+  }
+}
