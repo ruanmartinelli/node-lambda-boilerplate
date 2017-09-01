@@ -5,7 +5,11 @@
   "repository": "https://github.com/ruanmartinelli/lambda-zip-s3.git",
   "author": "Ruan Martinelli <martinelliruan@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/standard --fix && ./node_modules/.bin/ava --verbose"
+  },
   "dependencies": {
-    "ava": "^0.22.0"
+    "ava": "^0.22.0",
+    "standard": "^10.0.3"
   }
 }

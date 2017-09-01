@@ -1,4 +1,4 @@
-function httpSuccess(result = {}) {
+function httpSuccess (result = {}) {
   return {
     statusCode: 200,
     headers: { 'Access-Control-Allow-Origin': '*' },
